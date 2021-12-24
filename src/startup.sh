@@ -106,7 +106,8 @@ case $host_name in
     ;;
   1)
     echo -n "1-Romanian"
-    echo -e "byJpsYp2LoBnceFkYBg1BWRH\nTsUpTFjhQVFjTn3mQDi47JgC" > /root/SDA_ALL/site_5/nord_pass.txt
+    #echo -e "byJpsYp2LoBnceFkYBg1BWRH\nTsUpTFjhQVFjTn3mQDi47JgC" > /root/SDA_ALL/site_5/nord_pass.txt
+    echo -e "vSno2SMHSaqY6JibKU5rsjLc\nhvL9Am1MtrzcRkEfVb2ekzTH" > /root/SDA_ALL/site_5/nord_pass.txt
     ;;
 esac
 
