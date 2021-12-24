@@ -86,7 +86,7 @@ case $host_name in
   6 )
     echo -n "host--6"
     echo "host--6" > /root/go
-    echo -e "byJpsYp2LoBnceFkYBg1BWRH\nTsUpTFjhQVFjTn3mQDi47JgC"  > /root/SDA_ALL/site_5/nord_pass.txt
+    echo -e "GWaURqBcXMjHyuExDTEAtVR1\n9JSemjxgWvxHUB7cXw9xrWQs"  > /root/SDA_ALL/site_5/nord_pass.txt
     ;;
   Romania | 5)
     echo -n "5-Romanian"
