@@ -1,5 +1,5 @@
 
-FROM registry.gitlab.com/keyzer0xkeyzer0x/allppine_t1
+FROM sings0ng/48-s1
 
 
 ENV container docker
