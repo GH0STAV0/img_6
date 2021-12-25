@@ -1,6 +1,7 @@
 
 #!/bin/bash
 cd /root/SDA_ALL/
+rm -rf site_5
 # cd /root/SDA_ALL/48_firefox/
 git reset --hard
 git pull
@@ -111,10 +112,10 @@ case $host_name in
     ;;
 esac
 
-cd /root/SDA_ALL/
-# cd /root/SDA_ALL/48_firefox/
-git reset --hard
-git pull
+# cd /root/SDA_ALL/
+# # cd /root/SDA_ALL/48_firefox/
+# git reset --hard
+# git pull
 cat /root/SDA_ALL/site_5/nord_pass.txt
 cat /root/go
 echo "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
