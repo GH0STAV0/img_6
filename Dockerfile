@@ -1,5 +1,5 @@
 
-FROM sings0ng/48-s1
+FROM sings0ng/48-s1:latest
 
 
 ENV container docker
